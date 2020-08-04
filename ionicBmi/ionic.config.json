@@ -1,0 +1,7 @@
+{
+  "name": "ionicBmi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

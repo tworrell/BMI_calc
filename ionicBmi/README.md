@@ -2,4 +2,4 @@
 
 Please check out my BMI Calculator built with the Ionic Framework.
 
-first `cd into project` Then `ionic start` to start server.
+first `cd into project` Then `ionic serve` to start server.
